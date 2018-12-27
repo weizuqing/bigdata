@@ -3,3 +3,4 @@ lst commit
 lst commit1
 lst commit2
 lst commit3
+list commit4 mster
