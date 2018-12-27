@@ -6,3 +6,4 @@ lst commit3
 list commit4 mster
 lst commit4 dev
 edit my git bigdata
+the clone edit bigdata
